@@ -1,1 +1,2 @@
 This is my extension that lets to save leads while you are browsing the web. It saves the leads in the Local Storage and deletes the leads when you click on the respective button.
+You can install the extension via developer option on your browser's extension menu which you can access via chrome://extensions and load the extensions.
